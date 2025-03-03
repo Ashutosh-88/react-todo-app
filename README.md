@@ -1,6 +1,6 @@
 # ToDo App
 
-![Preview_CounterApp](./src/assets/previewCounterApp.png)
+![Preview_ReactTodoApo](./src/assets/previewReactTodoApp.png)
 
 ToDo App.
 
